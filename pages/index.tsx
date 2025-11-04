@@ -40,7 +40,7 @@ const Dashboard = () => {
           <h1 className="text-3xl font-bold text-gray-900 mb-2">Dashboard</h1>
           <p className="text-gray-600">
             Welcome back, <span className="font-semibold">Sourabh</span>! 👋
-            Here's your campaign performance overview.
+            Here&apos;s your campaign performance overview.
           </p>
         </div>
 
@@ -91,7 +91,7 @@ const Dashboard = () => {
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
                 <span className="text-sm text-gray-700">
-                  New campaign "Summer Sale" was created
+                  New campaign &quot;Summer Sale&quot; was created
                 </span>
               </div>
               <span className="text-xs text-gray-500">2 hours ago</span>
@@ -100,7 +100,7 @@ const Dashboard = () => {
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-green-500 rounded-full mr-3"></div>
                 <span className="text-sm text-gray-700">
-                  "Welcome Series" campaign reached 95% delivery rate
+                  &quot;Welcome Series&quot; campaign reached 95% delivery rate
                 </span>
               </div>
               <span className="text-xs text-gray-500">5 hours ago</span>
